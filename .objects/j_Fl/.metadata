@@ -1,0 +1,12 @@
+﻿{
+  "Id": "j_Fleu_SDUqf02QuwMxtDA",
+  "Reference": "Fq_SkGlIPUG-en9XvL-C-w/j_Fleu_SDUqf02QuwMxtDA",
+  "Name": "Opera",
+  "Description": "Internet",
+  "Type": "App",
+  "Created": "2022-03-25T19:27:27.4908283Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-25T19:27:27.4908283Z"
+}

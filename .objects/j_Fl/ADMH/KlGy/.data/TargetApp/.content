@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="pVF25mJqyk-A-WsbCsodiQ" Selector="&lt;html app='chrome.exe' title='New Tab' /&gt;" Url="chrome://newtab/" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0f53VJyftYkyW2plfNbTz0A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d0de7c4e75c12dc959bd5aa42fc5bf01.png" xmlns="">0My5Zb9gS_kaIBtpWopZPMQ</imageRef>
+</TargetApp>

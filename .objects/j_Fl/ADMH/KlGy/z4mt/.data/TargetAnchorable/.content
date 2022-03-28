@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="cOQ4ecEkmEmO016u-c0YXQ" DesignTimeRectangle="8, 8, 1920, 1040" FriendlyName="'Intermediate D3D Window'" FullSelectorArgument="&lt;wnd cls='Intermediate D3D Window' /&gt;" FuzzySelectorArgument="&lt;wnd cls='Intermediate D3D Window' /&gt;" Guid="28403fd2-f632-44fc-88c9-fc8d0f6f444c" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='New Tab - Google Chrome' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0isrQyXw7KU-7m4binvXq4g</imageRef>
+</TargetAnchorable>
